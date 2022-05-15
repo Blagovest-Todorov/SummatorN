@@ -1,0 +1,2 @@
+# SummatorN
+class with tests
